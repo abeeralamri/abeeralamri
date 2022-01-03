@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Abeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeer&show_icons=true&theme=radical)
+
+![Abeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeeralamri&show_icons=true&theme=radical)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeralamri&layout=compact)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
