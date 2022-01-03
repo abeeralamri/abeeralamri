@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 -I am a highly motivated web developer with a passion for learning new technologies that continue to grow every day.
 
 ##  I'm familiar with:
-(https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeralamri&layout=compact)
