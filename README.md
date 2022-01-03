@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ##  I'm familiar with:
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,4 +38,5 @@ Here are some ideas to get you started:
 ![Abeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeeralamri&show_icons=true&theme=radical)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeralamri&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeralamri&layout=compact)](https://github.com/abeeralamri/github-readme-stats)
+
