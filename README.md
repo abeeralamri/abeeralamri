@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - My name is Abeer Alamri.
 - I have a bachelor's degree in Computer Science 💻.
 - Full Stack Web Developer.
-- 🌱 I’m currently learning Ruby on Rails 
+- I’m currently learning Ruby on Rails 
 - I am a highly motivated web developer with a passion for learning new technologies that continue to grow every day.
 
 ##  I'm familiar with:
