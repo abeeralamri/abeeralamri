@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=abeeralamri&color=ff69b4)
+
 
 
 <!--
