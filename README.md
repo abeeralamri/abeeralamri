@@ -36,5 +36,8 @@ Here are some ideas to get you started:
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeralamri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
