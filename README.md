@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 💻 I have a bachelor's degree in Computer Science.
 </p>
 <p align="center">
-👨‍💻 Full Stack Web Developer.
+👩🏻‍💻 Full Stack Web Developer.
 </p>
 <p align="center">
 🌱 I’m currently learning Ruby on Rails 
